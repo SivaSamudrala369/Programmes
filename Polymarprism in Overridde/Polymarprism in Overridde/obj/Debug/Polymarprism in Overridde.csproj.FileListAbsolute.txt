@@ -1,0 +1,7 @@
+C:\Project\Inheritance\Conctructor\Polymarprism in Overridde\Polymarprism in Overridde\bin\Debug\Polymarprism in Overridde.exe.config
+C:\Project\Inheritance\Conctructor\Polymarprism in Overridde\Polymarprism in Overridde\bin\Debug\Polymarprism in Overridde.exe
+C:\Project\Inheritance\Conctructor\Polymarprism in Overridde\Polymarprism in Overridde\bin\Debug\Polymarprism in Overridde.pdb
+C:\Project\Inheritance\Conctructor\Polymarprism in Overridde\Polymarprism in Overridde\obj\Debug\Polymarprism in Overridde.csproj.AssemblyReference.cache
+C:\Project\Inheritance\Conctructor\Polymarprism in Overridde\Polymarprism in Overridde\obj\Debug\Polymarprism in Overridde.csproj.CoreCompileInputs.cache
+C:\Project\Inheritance\Conctructor\Polymarprism in Overridde\Polymarprism in Overridde\obj\Debug\Polymarprism in Overridde.exe
+C:\Project\Inheritance\Conctructor\Polymarprism in Overridde\Polymarprism in Overridde\obj\Debug\Polymarprism in Overridde.pdb
