@@ -1,0 +1,7 @@
+E:\Collections C#\CollectionsArrayList\CollectionsArrayList\bin\Debug\CollectionsArrayList.exe.config
+E:\Collections C#\CollectionsArrayList\CollectionsArrayList\bin\Debug\CollectionsArrayList.exe
+E:\Collections C#\CollectionsArrayList\CollectionsArrayList\bin\Debug\CollectionsArrayList.pdb
+E:\Collections C#\CollectionsArrayList\CollectionsArrayList\obj\Debug\CollectionsArrayList.csproj.AssemblyReference.cache
+E:\Collections C#\CollectionsArrayList\CollectionsArrayList\obj\Debug\CollectionsArrayList.csproj.CoreCompileInputs.cache
+E:\Collections C#\CollectionsArrayList\CollectionsArrayList\obj\Debug\CollectionsArrayList.exe
+E:\Collections C#\CollectionsArrayList\CollectionsArrayList\obj\Debug\CollectionsArrayList.pdb
